@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BottomNav</string>
+    <string name="label_profile">Comics</string>
+    <string name="label_tvshow">Movies</string>
+    <string name="label_favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="smurfs">Smurfs</string>
+    <string name="detail_activity_title">More Information</string>
+    <string name="main_activity_title">Smurfs</string>
+<!--    <string name="label_computers">Computers</string>-->
+<!--    <string name="label_favourite">Favourites</string>-->
+<!--    <string name="label_history">History</string>-->
+<!--    <string name="computer_photo_description">Computer Photo</string>-->
+</resources>
